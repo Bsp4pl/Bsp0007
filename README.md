@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bsp0007
+- 👋 Hi, I’m @Basavaraj S patil
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python Java etc..
 - 💞️ I’m looking to collaborate on ...
